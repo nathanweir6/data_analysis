@@ -4,9 +4,7 @@ Hi my name is Nathan Weir ![](https://user-images.githubusercontent.com/18350557
 Data Analyst
 ------------
 
-Analytical and driven data professional with a 2:1 degree in Sports, Exercise, and Health Sciences from the University of Birmingham and advanced technical training through a Data Technician Bootcamp. Skilled in SQL, Python, Power BI, Tableau, and Excel, I specialise in transforming complex data into actionable insights that improve business efficiency, compliance, and sustainability. In my current role as an Onboarding Consultant at Valpak, I guide new clients through regulatory compliance processes, ensuring seamless integration into company systems. I analyse sustainability data, prepare compliance reports, and collaborate with stakeholders to deliver clear, data-driven insights. Acting as the first point of contact for new clients has strengthened my ability to translate technical requirements into practical solutions while maintaining high data quality and accuracy.
-
-<img width="468" height="177" alt="image" src="https://github.com/user-attachments/assets/937a8b74-cd01-4d9a-87fa-f06b1a252338" />
+Analytical and driven data professional with a 2:1 undergraduate degree in Sports, Exercise, and Health Sciences from the University of Birmingham and advanced technical training through a Data Technician Bootcamp. Skilled in SQL, Python, Power BI, Tableau, and Excel, I specialise in transforming complex data into actionable insights that improve business efficiency, compliance, and sustainability. In my current role as an Onboarding Consultant at Valpak, I guide new clients through regulatory compliance processes, ensuring seamless integration into company systems. I analyse sustainability data, prepare compliance reports, and collaborate with stakeholders to deliver clear, data-driven insights. Acting as the first point of contact for new clients has strengthened my ability to translate technical requirements into practical solutions while maintaining high data quality and accuracy.
 
 *   🌍  I'm based in Birmingham
 *   ✉️  You can contact me at [nathanweir6@gmail.com](mailto:nathanweir6@gmail.com)### Skills 
